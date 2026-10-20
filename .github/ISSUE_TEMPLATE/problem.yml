@@ -1,0 +1,35 @@
+name: Report a problem
+description: Something in AirPane didn't work, or looked wrong.
+labels: ["problem"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for testing AirPane! A few details make it much easier to fix.
+  - type: input
+    id: airpods
+    attributes:
+      label: Which AirPods?
+      placeholder: AirPods 4 (ANC), AirPods Pro 2, AirPods Max…
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: Apple menu › About This Mac
+      placeholder: macOS 27.0.1
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: AirPane version
+      description: AirPane Settings › Advanced
+      placeholder: "0.9.0"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead. A screenshot helps a lot.
+    validations:
+      required: true

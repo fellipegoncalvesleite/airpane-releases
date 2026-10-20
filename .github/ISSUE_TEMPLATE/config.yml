@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: AirPane website
+    url: https://airpane.vercel.app
+    about: How to open AirPane, privacy, and what's new.
