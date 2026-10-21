@@ -9,6 +9,6 @@ This repository only holds the app's downloads. The source code is private.
   (macOS 14 or later)
 - AirPane isn't notarized by Apple yet, so macOS asks you to confirm it the first time:
   [here's how to open it](https://airpane.vercel.app/open.html).
-- Version 0.9 is a free test, free until 31 December 2026.
+- AirPane is in a free beta.
 
 Not affiliated with Apple. AirPods and Mac are trademarks of Apple Inc.
