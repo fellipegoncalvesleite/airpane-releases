@@ -8,7 +8,7 @@ This repository only holds the app's downloads. The source code is private.
 - **Download:** [AirPane.dmg](https://github.com/fellipegoncalvesleite/airpane-releases/releases/latest/download/AirPane.dmg)
   (macOS 14 or later)
 - AirPane isn't notarized by Apple yet, so macOS asks you to confirm it the first time:
-  [here's how to open it](https://airpane.vercel.app/open.html).
+  [here's how to open it](https://airpane.vercel.app/open).
 - AirPane is in a free beta.
 
 Not affiliated with Apple. AirPods and Mac are trademarks of Apple Inc.
