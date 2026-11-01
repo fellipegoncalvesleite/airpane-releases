@@ -4,7 +4,7 @@ labels: ["problem"]
 body:
   - type: markdown
     attributes:
-      value: Thanks for testing AirPane! A few details make it much easier to fix.
+      value: Thanks for reporting it! A few details make it much easier to fix.
   - type: input
     id: airpods
     attributes:
@@ -25,7 +25,7 @@ body:
     attributes:
       label: AirPane version
       description: AirPane Settings › Advanced
-      placeholder: "0.9.0"
+      placeholder: "1.0.1"
   - type: textarea
     id: what
     attributes:

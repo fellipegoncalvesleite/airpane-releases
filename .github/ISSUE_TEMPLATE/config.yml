@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: AirPane website
-    url: https://airpane.vercel.app
-    about: How to open AirPane, privacy, and what's new.
+    url: https://airpane.app
+    about: Buying, how to open AirPane, privacy and refunds.
+  - name: Lost your licence key?
+    url: https://airpane.app/recover
+    about: Get it back with your email and order ID.
