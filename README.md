@@ -17,14 +17,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/card-dark.png">
-    <img src="images/card-light.png" width="330" alt="The card AirPane shows when you open the AirPods case: a 3D model of the AirPods, the buds at 69% and the case charging at 90%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/panel-dark.png">
-    <img src="images/panel-light.png" width="250" alt="AirPane's menu bar panel: battery, volume, what's playing, noise control, Conversation Awareness, where the sound plays, sound output and microphone">
-  </picture>
+  <img src="images/demo-panel.png" width="100%" alt="AirPane's menu bar panel open on a Mac desktop: batteries, volume, noise control, Conversation Awareness, where the sound plays, sound output and microphone">
 </p>
 
 <p align="center">
@@ -46,34 +39,29 @@
 <table>
   <tr>
     <td width="50%">
+      <img src="images/demo-card.png" alt="The card AirPane shows when you open the AirPods case: a 3D model of the AirPods, 70% buds, 90% case and a Connect button"><br>
+      <b>Just open the case.</b> Batteries and a Connect button, the moment the lid opens.
+    </td>
+    <td width="50%">
+      <img src="images/demo-card-in-ear.png" alt="The card once the AirPods are out: each bud's battery, the left one in an ear, and the case">
+      <br>
+      <b>Each bud on its own.</b> Left, right and the case, once they're out.
+    </td>
+  </tr>
+  <tr>
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/small-dark.png">
         <img src="images/small-light.png" alt="A small card: both AirPods back in the case, buds at 69%, case at 90%">
       </picture><br>
       <b>The small things.</b> A quiet card when you put them back in the case.
     </td>
-    <td width="50%">
+    <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/pill-dark.png">
         <img src="images/pill-light.png" alt="The small card size: the AirPods' name, batteries and a Connect button in one line">
       </picture><br>
       <b>Your size.</b> A full card, a compact one, a slim one, or one that drops from the notch.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/case-open-dark.png">
-        <img src="images/case-open-light.png" alt="The panel while the case is open nearby, with a Connect to this Mac button">
-      </picture><br>
-      <b>One click to connect.</b> Open the case and the panel offers to bring them to this Mac.
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/setup-dark.png">
-        <img src="images/setup-light.png" alt="The card for AirPods not yet set up with this Mac, with steps and an Open Bluetooth Settings button">
-      </picture><br>
-      <b>New AirPods too.</b> It walks you through pairing ones this Mac hasn't met yet.
     </td>
   </tr>
 </table>
